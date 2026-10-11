@@ -1,0 +1,17 @@
+auth.json
+**/auth.json
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.jsonl
+*.log
+*.lnk
+.env
+.env.*
+sessions/
+attachments/
+codex-home/
+user-data/
+node_modules/
+__pycache__/
